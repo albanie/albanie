@@ -8,7 +8,7 @@ Some video materials I'm currently working on:
 
 Some active projects:
 - 🤖 [conversations-with-gpt-4](https://conversations-with-gpt-4.com/)
-- ✍️ [filtir](https://filtir.com/) 
+- ✍️ [samuel-api](https://samuel-api.com/) 
 
 Links:
 - [@samuelalbanie (Twitter)](https://twitter.com/SamuelAlbanie)
