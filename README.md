@@ -5,10 +5,10 @@ I'm Samuel, a machine learning researcher. I'm also an assistant professor at th
 ### Active projects
 
 - ✅ [filtir (fact-checking API)](https://filtir.com/)
+- <img src="images/youtube-icon.png" alt="YouTube icon" width="24" height="18" style="vertical-align: middle;"></a> [AI News](https://github.com/albanie/AI-news)
 
 ### Video lectures/summaries/tutorials
 
-- <img src="images/youtube-icon.png" alt="YouTube icon" width="24" height="18" style="vertical-align: middle;"></a> [AI News](https://www.youtube.com/watch?v=zPBsSjOUc8A&list=PL9t0xVFP90GC17cY2_bOZRphNQhscmYf9)
 - 🌍 [foundation models](https://github.com/albanie/foundation-models) (research papers related to foundation models)
 - ▶ [algorithms and data structures](https://github.com/albanie/algorithms-and-data-structures) (introductory algorithms and data structures)
 
