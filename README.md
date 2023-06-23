@@ -4,7 +4,7 @@ I'm Samuel, a machine learning researcher. I'm also an assistant professor at th
 
 ### Active projects
 
-- ✅ [filtir (fact-checking API)](https://filtir.com/)
+- ✅ [filtir (fact-checking/catching hallucinations)](https://filtir.com/)
 - <img src="images/youtube-icon.png" alt="YouTube icon" width="24" height="18" style="vertical-align: middle;"></a> [AI News](https://github.com/albanie/AI-news)
 
 ### Video lectures/summaries/tutorials
