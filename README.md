@@ -1,6 +1,7 @@
 ### Hello 👋, I'm Samuel
 
 I'm an engineer. I'm also an assistant professor at the University of Cambridge.
+I enjoy reading, so book recommendations are always appreciated.
 
 ### Some projects
 
