@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Samuel
 
-I'm an engineer. I'm also an assistant professor at the University of Cambridge.
+I'm a engineer/researcher.
 
 ### Some projects
 
