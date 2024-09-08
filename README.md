@@ -1,12 +1,6 @@
 ### Hello 👋, I'm Samuel
 
-I'm a engineer/researcher.
-
-### Some projects
-
-- ▶ [algorithms and data structures](https://github.com/albanie/algorithms-and-data-structures) (introductory algorithms and data structures)
-- 🤖 [conversations-with-gpt-4](https://conversations-with-gpt-4.com/)
-- ✍️ [samuel-api](https://samuel-api.com/)
+I'm a engineer/researcher. I'm working on Scalable Oversight at Google DeepMind.
 
 ### Links
 
@@ -15,4 +9,4 @@ I'm a engineer/researcher.
 - <a href="https://twitter.com/SamuelAlbanie"><img src="images/x-icon.webp" alt="Twitter bird icon" width="24" height="20" style="vertical-align: middle;"></a> [@samuelalbanie](https://twitter.com/SamuelAlbanie)
 
 
-Finally: I enjoy reading, so book recommendations are always appreciated (my email is samuel.albanie.academic@gmail.com).
+I enjoy reading, so book recommendations are always appreciated (my email is samuel.albanie.academic@gmail.com).
