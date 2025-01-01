@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Samuel
 
-I'm a engineer/researcher. I'm working on Scalable Oversight at Google DeepMind.
+I'm a engineer/researcher. I work at Google DeepMind.
 
 ### Links
 
